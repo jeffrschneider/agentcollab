@@ -1,3 +1,5 @@
+> The Agent Collab guide and the agentcollab.dev site now live in [github.com/CommonAgent/common-agent-standards](https://github.com/CommonAgent/common-agent-standards/tree/main/guides/collab) under guides/collab; this repository is archived.
+
 # Agent Collab
 
 Playbooks, not protocols. This repository is a library of collaboration
